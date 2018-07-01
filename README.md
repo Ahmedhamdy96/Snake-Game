@@ -1,0 +1,2 @@
+Play using [ ^ ] Keys 
+    [ < ]  [ v ] [ > ] 
